@@ -5,7 +5,8 @@ exports.lambdaHandler = async (event) => {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      message: "hello world"
+      message: "Hello from Lambda 🚀",
+      input: event
     })
   };
 };
