@@ -1,5 +1,8 @@
-const writeItem = require("./handlers/writeItem");
-
-exports.lambdaHandler = async () => {
-  return await writeItem();
+exports.lambdaHandler = async (event) => {
+  return {
+    statusCode: 200,
+    body: JSON.stringify({
+      message: "hello world",
+    }),
+  };
 };
