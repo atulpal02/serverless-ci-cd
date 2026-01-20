@@ -32,6 +32,7 @@ jobs:
       - name: Deploy
         run: |
           sam deploy \
+            --config-file /dev/null \
             --stack-name serverless-ci-cd \
             --s3-bucket serverless-ci-cd-artifacts-300052682080 \
             --s3-prefix serverless-ci-cd \
