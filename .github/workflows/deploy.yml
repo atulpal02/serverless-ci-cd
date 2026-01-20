@@ -33,9 +33,10 @@ jobs:
         run: |
           sam deploy \
             --stack-name serverless-ci-cd \
-            --resolve-s3 \
-            --s3-prefix serverless-ci-cd-artifacts \
+            --s3-bucket serverless-ci-cd-artifacts-300052682080 \
+            --s3-prefix serverless-ci-cd \
             --capabilities CAPABILITY_IAM \
             --no-confirm-changeset \
             --no-fail-on-empty-changeset
+
 
