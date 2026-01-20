@@ -33,6 +33,7 @@ jobs:
         run: |
           sam deploy \
             --stack-name serverless-ci-cd \
+            --resolve-s3 \
             --capabilities CAPABILITY_IAM \
             --no-confirm-changeset \
             --no-fail-on-empty-changeset
