@@ -1,4 +1,11 @@
 # serverless-ci-cd
+<img width="1213" height="712" alt="Screenshot 2026-01-21 at 7 17 33 PM" src="https://github.com/user-attachments/assets/74cec0c9-84d4-4112-b848-8720d68075d0" />
+<img width="1213" height="712" alt="Screenshot 2026-01-21 at 7 19 03 PM" src="https://github.com/user-attachments/assets/aa0fc050-b29b-4adf-a1d6-9d10b98b44b7" />
+<img width="1213" height="712" alt="Screenshot 2026-01-21 at 7 19 48 PM" src="https://github.com/user-attachments/assets/2bfb5f68-30f8-4af3-8ffb-87d9042da8bf" />
+<img width="1217" height="366" alt="Screenshot 2026-01-21 at 7 21 22 PM" src="https://github.com/user-attachments/assets/32a17880-3f92-4df9-b497-b01c4d72c8a1" />
+<img width="1269" height="703" alt="Screenshot 2026-01-21 at 7 22 08 PM" src="https://github.com/user-attachments/assets/631fdf77-ab1a-47c6-8f8a-9ee1fb6d682f" />
+<img width="1269" height="580" alt="Screenshot 2026-01-21 at 7 22 29 PM" src="https://github.com/user-attachments/assets/affd6ed4-1d29-49ef-b995-8f1ab2ddc2ea" />
+<img width="1067" height="580" alt="Screenshot 2026-01-21 at 7 23 36 PM" src="https://github.com/user-attachments/assets/aaa7f2aa-a5f4-48dd-a416-6c8f78784bae" />
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
